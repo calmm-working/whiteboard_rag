@@ -1,0 +1,6 @@
+ultralytics
+opencv-python-headless
+pillow
+vietocr
+huggingface_hub
+python-dotenv
