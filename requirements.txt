@@ -1,6 +1,36 @@
+# ==========================================
+# 👁️ COMPUTER VISION & OCR (YOLO + TrOCR)
+# ==========================================
+torch
+torchvision
+transformers
+sentencepiece
+tiktoken
+protobuf
+opencv-python
+Pillow
+numpy
 ultralytics
-opencv-python-headless
-pillow
-vietocr
-huggingface_hub
+
+# ==========================================
+# 🧠 RAG ENGINE (LangChain Ecosystem)
+# ==========================================
+langchain
+langchain-community
+langchain-core
+chromadb
+langchain-chroma
+sentence-transformers
+langchain-huggingface
+
+# ==========================================
+# 🌐 GOOGLE LLM & BẢO MẬT
+# ==========================================
+# Thư viện gốc của Google Gemini
+google-generativeai
+
+# Thư viện cầu nối Google - LangChain
+langchain-google-genai
+
+# Đọc file biến môi trường (.env)
 python-dotenv
